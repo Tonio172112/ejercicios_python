@@ -29,5 +29,4 @@ print(largo_list(mi_lista))
 # 4- 
 
 def is_vocal(carac):
-    carac=carac.upper()
     if()
